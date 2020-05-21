@@ -127,6 +127,10 @@ input {
     width: 90px;
 }
 
+.box:last-child {
+    margin-right: 0px;
+}
+
 footer {
     clear: both;
 

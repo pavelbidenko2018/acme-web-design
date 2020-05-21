@@ -161,3 +161,20 @@ article.main-col {
     float: left;
 }
 
+/* Services */
+.services li {
+    list-style: none;
+    padding:20px;
+    border: 1px solid #cccccc;
+    margin-bottom: 5px;
+    background-color: #e6e6e6;
+}
+
+.quote input,
+.quote textarea {
+    width: 90%;
+    padding: 5px;
+}
+.quote button {
+    margin-top: 5px;
+}

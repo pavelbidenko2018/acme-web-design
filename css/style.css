@@ -28,6 +28,13 @@ margin:0;
 padding:0;
 }
 
+.dark {
+    padding: 15px;
+    background-color: #35424a;
+    color:#ffffff;
+    margin: 10px auto;
+}
+
 header a {
     color: white;
     text-decoration: none;
@@ -140,5 +147,17 @@ footer {
 
     color: #ffffff;
     background-color: #e8491d;
+}
+
+/* About page */
+aside.sidebar {
+    width: 30%;
+    float:right;
+    margin-top: 10px;
+} 
+
+article.main-col {
+    width:65%;
+    float: left;
 }
 

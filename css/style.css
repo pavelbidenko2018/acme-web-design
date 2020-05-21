@@ -1,18 +1,16 @@
-
 body {
     padding: 0;
     margin: 0;  
     
-    font: 15px/1.5em Arial, Helvetica, sans-serif;
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
     background-color: #f4f4f4;
 }
 
 /* Global */
 .container {
     width:80%;
-    margin: 0 auto;
+    margin: auto;
     overflow: hidden;
-   
 }
 
 header {
@@ -44,7 +42,7 @@ header a:hover, header a:focus {
    
 header li {
     display: inline;
-    padding: 0 20px;
+    padding: 0 20px 0 20px;
 }
 
 header .logo {
@@ -52,10 +50,12 @@ header .logo {
 }
 
 header .logo h1 {
-    margin: 0;
+ margin: 0;
 }
 
+
 header nav {
+    margin-top: 10px;
     float: right;
 }
 
@@ -74,10 +74,67 @@ header .current  a{
 }
 
 #central-section h1 {
-    margin-top: 80px 0 20px 0;
+    margin: 100px 0 10px 0;
     font-size: 3rem;
 }
 
 #central-section p {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
+
+#subscribe-section {
+    padding: 20px 0;
+    background-color: #35424a;
+    color: #ffffff;
+}
+
+#subscribe-section h2 {
+    margin:0;
+    float: left;
+}
+
+#subscribe-section form {
+    float: right;
+}
+
+input {
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+}
+.subscribe-btn {
+    background-color: #e8491d;
+    padding: 0px 20px;
+    height: 38px;
+    border:none;
+
+    color: #ffffff;
+   
+}
+
+#down-section {
+    margin-top: 20px;
+    }
+
+#down-section .box {
+    width:30%;
+    float: left;
+    padding: 10px;
+    text-align: center;    
+}
+
+.box img {
+    width: 90px;
+}
+
+footer {
+    clear: both;
+
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+
+    color: #ffffff;
+    background-color: #e8491d;
+}
+

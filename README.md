@@ -13,4 +13,7 @@ HTML5, CSS3
 ## GitHub branches
 ---
 * index-html : index page html markup
+* index-css : index page general styling
+* index-style-det : index page details styling
+
 

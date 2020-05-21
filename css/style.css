@@ -104,7 +104,7 @@ header .current  a{
     float: right;
 }
 
-input {
+.subs-form input {
     padding: 4px;
     height: 25px;
     width: 250px;
@@ -115,8 +115,7 @@ input {
     height: 38px;
     border:none;
 
-    color: #ffffff;
-   
+    color: #ffffff;   
 }
 
 #down-section {
@@ -177,4 +176,51 @@ article.main-col {
 }
 .quote button {
     margin-top: 5px;
+}
+
+@media (max-width:768px){
+
+    header .logo,
+    header nav,
+    #subscribe-section h2,
+    .subs-form,
+     #down-section .box,
+    article.main-col,
+    aside.sidebar
+     {
+        float: none;
+        width: 100%;
+        text-align: center;
+
+    }    
+      
+    header nav {
+        margin-bottom: 10px;
+    }
+
+    #central-section h1 {
+        margin-top: 40px;
+    }
+    
+    #subscribe-section h2 {
+        margin-bottom: 5px;
+    }
+         
+    .subs-form input {      
+        width: 100%;
+        margin-bottom: 5px;
+    }
+
+    .subs-form button,
+    .quote button
+    {
+        display: block;
+        width: 100%;
+    }
+
+
+    aside.sidebar {          
+        margin-top: 10px;
+    }     
+        
 }

@@ -16,5 +16,6 @@ HTML5, CSS3
 * index-css : index page general styling
 * index-style-det : index page details styling
 * about-html: about page markup
+* about-style: about page styling
 
 

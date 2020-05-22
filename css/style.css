@@ -89,18 +89,17 @@ header .current  a{
     font-size: 1.25rem;
 }
 
-#subscribe-section {
+.subscribe-section {
     padding: 20px 0;
     background-color: #35424a;
     color: #ffffff;
 }
 
-#subscribe-section h2 {
+.subscribe-section h2 {
     margin:0;
     float: left;
 }
-
-#subscribe-section form {
+.subscribe-section form {
     float: right;
 }
 
@@ -124,9 +123,15 @@ header .current  a{
 
 #down-section .box {
     width:30%;
-    float: left;
+    /* float: left; */
     padding: 10px;
     text-align: center;    
+}
+
+.sub-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
 .box img {
@@ -182,9 +187,9 @@ article.main-col {
 
     header .logo,
     header nav,
-    #subscribe-section h2,
+    .subscribe-section h2,
     .subs-form,
-     #down-section .box,
+     /* #down-section .box, */
     article.main-col,
     aside.sidebar
      {
@@ -192,8 +197,11 @@ article.main-col {
         width: 100%;
         text-align: center;
 
-    }    
-      
+    } 
+
+
+    
+        
     header nav {
         margin-bottom: 10px;
     }
@@ -202,8 +210,19 @@ article.main-col {
         margin-top: 40px;
     }
     
-    #subscribe-section h2 {
+    .subscribe-section h2 {
         margin-bottom: 5px;
+    }
+
+    .sub-container {
+       flex-direction: column;   
+        
+    }
+
+    #down-section .box {
+        width:100%;
+        text-align: center;
+        padding: 20px 0;
     }
          
     .subs-form input {      

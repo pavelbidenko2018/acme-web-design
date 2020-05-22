@@ -3,20 +3,17 @@
 
 ## Acme web design project
 ---
-Web site of responsive design.  
- 
+This project is a static website developed according responsive design concept.  
+
+## Features
+The website consists of 3 pages: index, about, services.
 
 ## Technologies used
 ---
-HTML5, CSS3
+HTML5, CSS3, Git
 
-## GitHub branches
----
-* index-html : index page html markup
-* index-css : index page general styling
-* index-style-det : index page details styling
-* about-html: about page markup
-* about-style: about page styling
-* services-page: services page markup and styling
+
+
+
 
 

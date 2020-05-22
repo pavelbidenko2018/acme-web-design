@@ -2,47 +2,51 @@
 
 > `acme-web-design`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+This project is HTML&CSS example of implementation of incremental developing pattern.
 
-## Wireframe
+
+
+## Wireframe (index page)
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](wireframe.png)
 
-## 0. Set-Up
+## 1. Description
 
-__A User can see my initial repository and live demo__
 
-### Repo
+### Git Branches: 
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+#### index-html : 
+  * HTML: index page general styling
+  
+#### index-css : 
+  * CSS: index page general styling
 
-## 1. __
 
-__full user story description__
+#### index-style-det : 
+  * CSS: index page details styling
 
-### Repo
+#### about-html: 
+  * HTML: about page markup
 
-what branch(es) did you work on?
+#### about-style: 
+  * CSS: about page styling
 
-### HTML
+#### services-page: services page markup and styling
+  * HTML: services page markup
+  * CSS: services page styling
 
-what did you change in the HTML and why?
+#### responsive
+* CSS: dding styling for responsive design
 
-### CSS
+#### bugfix
+* HTML and CSS: bug fixing
+* code validating
+* development strategy and readme editing
 
-what did you change in the CSS and why?
-
-## 2. ...
-
-...
-
-...
+### Readme file
+* [readme.md](README.md)
 
 ## Finishing Touches
 

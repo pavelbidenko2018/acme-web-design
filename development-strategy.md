@@ -45,10 +45,10 @@ This project is HTML&CSS example of implementation of incremental developing pat
 * code validating
 * development strategy and readme editing
 
-### Readme file
+## 2. Readme file
 * [readme.md](README.md)
 
-## Bugs founded
+## 3. Bugs founded
 
 HTML and CSS have been validated via https://validator.w3.org/
 

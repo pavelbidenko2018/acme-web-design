@@ -131,6 +131,8 @@ On the current step obvious bugs in markup qnd styling were fixed.
 No changes
 
 ### CSS
+
+```display:flex``` approach was implemened for some elements of ```index.html``` insted of ```float```  to achive their more exact placing.
 ---
 
 ## 9. User story: Fixing errors after review, development-strategy improved

@@ -35,7 +35,7 @@ The ```index-page``` HTML markup is based on using the HTML5 semantic tags:
 ```<header>, <footer>, <nav>, <section>``` 
 
 ### CSS
-No CSS on this step
+- No CSS on this step
 ---
 
 ## 2. User story: CSS styling of index.html
@@ -48,7 +48,7 @@ No CSS on this step
 No changes on this step
 
 ### CSS  
-CSS3 features were implemented on this step for get the general view according to the ```wireframe```
+- CSS3 features were implemented on this step for get the general view according to the ```wireframe```
 ---
 
 ## 3. User story: CSS styling of index.html
@@ -61,7 +61,7 @@ On this step detailed styling of index page was developed
 No changes on this step
 
 ### CSS
-CSS3 features were implemented for detailed styling of ```index``` page elements i.e. font size, elements margins and paddings
+- CSS3 features were implemented for detailed styling of ```index``` page elements i.e. font size, elements margins and paddings
 ---
 
 ## 4. User story: HTML markup of about.html
@@ -75,7 +75,7 @@ The main goal on the current step was to develop ```about``` page general HTML m
 HTML markup was developed on according to the wireframe schema.
 
 ### CSS
-No CSS changed on thos step
+- No CSS changed on thos step
 ---
 
 ## 5. User story: CSS styling of ```about.html```
@@ -85,11 +85,11 @@ No CSS changed on thos step
 
 On the current step ```about page```  CSS styling was implemented.
 
-### HTML
+### HTM
 No changes on this step
 
 ### CSS
-CSS3 features were implemented on this step for get the ```about page``` view according to the ```wireframe```
+- CSS3 features were implemented on this step for get the ```about page``` view according to the ```wireframe```
 ---
 
 ## 6. User story: HTML markup and CSS styling of ```services.html```
@@ -103,7 +103,7 @@ On the current step ```services page``` HTML markup and CSS styling were develop
 HTML markup was developed on according to the wireframe schema.
 
 ### CSS
-CSS3 features were implemented on this step for get the ```services page``` view according to the ```wireframe```
+- CSS3 features were implemented on this step for get the ```services page``` view according to the ```wireframe```
 ---
 
 ## 7. User story: Site responsive features CSS development.
@@ -117,7 +117,7 @@ On the current step ```CSS3 media requests``` were developped.
 No changes
 
 ### CSS
-Media request features were implemented for all site pages to suit responsive design principles. 
+- Media request features were implemented for all site pages to suit responsive design principles. 
 ---
 
 ## 8. User story: Bug fixing, code validating
@@ -131,8 +131,21 @@ On the current step obvious bugs in markup qnd styling were fixed.
 No changes
 
 ### CSS
+- ```display:flex``` approach was implemened for some elements of ```index.html``` instead of ```float```  for better placing.
+---
 
-```display:flex``` approach was implemened for some elements of ```index.html``` insted of ```float```  to achive their more exact placing.
+## 8. User story: Bug fixing, code validating
+
+### Git Branches: 
+- bugfix
+
+On the current step obvious bugs in markup qnd styling were fixed.
+
+### HTML
+No changes
+
+### CSS
+- ```display:flex``` approach was implemened for some elements of ```index.html``` insted of ```float```  to achive their more exact placing.
 ---
 
 ## 9. User story: Fixing errors after review, development-strategy improved
@@ -146,7 +159,7 @@ On the current step development-strategy file was reviewed and improved.
 Some changes to avoid validation warnings
 
 ### CSS
-Some changes to avoid validation warnings
+- Some changes to avoid validation warnings
 ---
 
 ## Finishing Touches

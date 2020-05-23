@@ -18,7 +18,7 @@ This project is HTML&CSS example of implementation of incremental developing pat
 ### Git Branches: 
 
 #### index-html : 
-  * HTML: index page general styling
+  * HTML: index page general markup
   
 #### index-css : 
   * CSS: index page general styling

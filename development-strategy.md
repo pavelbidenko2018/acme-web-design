@@ -48,10 +48,7 @@ This project is HTML&CSS example of implementation of incremental developing pat
 ### Readme file
 * [readme.md](README.md)
 
-## Finishing Touches
+## Bugs founded
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+HTML and CSS have been validated via https://validator.w3.org/
+
